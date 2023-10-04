@@ -1,0 +1,14 @@
+Input{
+   justify-content:  center;
+}
+Form{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    align-items: center;
+   
+}
+
+.top-labels{
+    display: flex;
+}
